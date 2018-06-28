@@ -4,29 +4,29 @@
 
 sidebar:
     # Site Settings
-    title: My Resume
-    url: 'http://webjeda.com'
-    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    title: Adrian Schäfer
+    #url: 'http://webjeda.com'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Adrian Schäfer
+    tagline: Android Expert
+    pic: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    twitter: '@webjeda'
+    email: adrian.schaefer87@gmail.com
+    phone: +49 176 57784137
+    #website: blog.webjeda.com #do not add http://
+    linkedin: adrianschaefer
+    github: AdrianoCelentano
+    twitter: '@SophosAdriano'
 
     languages:
         - language:
-          idiom: English
+          idiom: German
           level: Native
         - language:
-          idiom: French
+          idiom: English
           level: Professional
         - language:
           idiom: Spanish
@@ -34,10 +34,10 @@ sidebar:
         
     interests:
         - interest:
-          item: Climbing
+          item: Sport
           link:
         - interest:
-          item: Snowboarding
+          item: Reading
           link:
         - interest:
           item: Cooking
@@ -45,103 +45,122 @@ sidebar:
 
         
 
-
-
-
 career-profile: 
-    title: Career Profile
-    text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+    title: About me
+    text: 'I have a big focus on doing things properly. My highest priority is to write flexible and understandable code, which can be adjusted easily in the future. My code design is inspired by the book "Clean Code" by Robert C. Martin. 
+    As even the best code design can not consider all future requirements, i believe in continous refactoring to ensure the flexibility and comprehensibility of code. My refactoring methodology is inspired by the book "Refactoring" by Martin Fowler.'
 
 
 studies: 
     - education:
-      degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Bachelor in economic computer science
+      university: University of Karlsruhe
+      time: September 2008 - March 2012
 
     - education:
-      degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-      elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-      magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem."
+      degree: Abitur
+      university: Friedrich List Schule
+      time: 2004 - 2007
+
+
+
+experiences:
+    title: Experiences
+    
+    experiences:
+
+        - role: Android Developer
+          time: November 2018 - April 2019
+          company: Thalia
+          details: Building the products list feature for the Douglas shopping App for phones and tablets following clean architecture.
+
+        - role: Android Developer
+          time: November 2018 - today
+          company: Freelancer
+          details: Helping companies to improve their App Architecture, Code Quality and to create unique UI. 
+
+        - role: Android Developer
+          time: April 2017 - November 2018
+          company: United Nations, Berlin
+          details: Developing the ShareTheMeal Android App. Google Play Award 2017. Google excellence certificate June 2018. key technologies - Kotlin, Android
+
+        - role: Android Developer
+          time: September 2014 - April 2017
+          company: Freelancer
+          details: Working as a Freelancer for various clients from Germany (Obergudt, Volkswagen) and California (Grio).
+
+        - role: Android Developer
+          time: September 2015 - September 2016
+          company: literacyapp
+          details: building an education app for the globalXprize
+
+        - role: Android Developer
+          time: Januar 2013 - September 2014
+          company: Zalando, Berlin
+          details: Development of the existing E-Commerce Solution for Android. Redesign of the App for Smartphones and Tablets. Development of the REST-API. key technologies - Java, Android
+
+        - role: Bachelorand
+          time: March 2012 - September 2012
+          company: Gastrofix, Berlin
+          details: Through the contacts of my Professor, i got the opportunity to write my thesis in a Berlin startup. I developed an order terminal for tablets. key technologies - Javascript, Phonegap
+        
+        - role: Intern
+          time: September 2010 - February 2011
+          company: Vodafone, Stuttgart
+          details: Conception and development of a webapp for mobile data capturing and reporting, which was used from over 100 employees. key technologies - PHP, Javascript
 
 
 projects:
     title: Projects
-    intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-      sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
     
     projects:
       - project:
-        title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        title: Douglas
+        link: "https://play.google.com/store/apps/details?id=com.douglas.main"
+        tagline: "E-Commerce app designed for Tablets and Smartphones"
       - project:
-        title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        title: ShareTheMeal
+        link: "https://play.google.com/store/apps/details?id=org.sharethemeal.app"
+        tagline: "Several times awarded charity app"
       - project:
-        title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        title: Zalando
+        link: "https://play.google.com/store/apps/details?id=de.zalando.mobile"
+        tagline: "E-commerce app designed for Tablets and Smartphones"
       - project:
-        title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-      - project:
-        title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        title: WePark
+        link: "https://play.google.com/store/apps/details?id=de.volkswagen.wedrive.park"
+        tagline: "Parking app for Volkswagen"
 
 publications:
-    title: Publications
-    intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+    title: Awards
     
     publications:
       - paper:
-        title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        title: Google Play award
+        authors: 2017
+        conference: ShareTheMeal
       - paper:
-        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-      - paper:
-        title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        title: Google excelence certificate 
+        authors: June 2018
+        conference: ShareTheMeal
 
 
 skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
+          name: Android
           level: 98%
         - skill:
-          name: Javascript & jQuery
+          name: Java
           level: 98%
         - skill:
-          name: Angular
+          name: Kotlin
           level: 98%
         - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
-          level: 85%
-        - skill:
-          name: Sketch & Photoshop
-          level: 60%
+          name: Unity
+          level: 50%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'Download <a href="https://drive.google.com/open?id=1oB-vcE1bX_4XveYql6mi5PyLKzEAsGMl" target="_blank" rel="nofollow">PDF</a>'
