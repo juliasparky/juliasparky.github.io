@@ -47,8 +47,7 @@ sidebar:
 
 career-profile: 
     title: About me
-    text: 'I have a big focus on doing things properly. My highest priority is to write flexible and understandable code, which can be adjusted easily in the future. My code design is inspired by the book "Clean Code" by Robert C. Martin. 
-    As even the best code design can not consider all future requirements, i believe in continous refactoring to ensure the flexibility and comprehensibility of code. My refactoring methodology is inspired by the book "Refactoring" by Martin Fowler.'
+    text: 'I have a big focus on doing things properly. My highest priority is to write flexible and understandable code, which can be adjusted easily in the future. My code design is inspired by the book "Clean Code" by Robert C. Martin. As even the best code design cannot consider all future requirements, I believe in continuous refactoring to ensure the flexibility and comprehensibility of the code. My refactoring methodology is inspired by the book "Refactoring" by Martin Fowler.'
 
 
 studies: 
@@ -91,8 +90,8 @@ experiences:
 
         - role: Android Developer
           time: September 2015 - September 2016
-          company: literacyapp
-          details: building an education app for the globalXprize
+          company: Literacyapp
+          details: Building an educational app for the globalXprize
 
         - role: Android Developer
           time: Januar 2013 - September 2014
@@ -163,4 +162,4 @@ skills:
 
 
 footer: 
-    text: 'Download <a href="https://drive.google.com/open?id=1oB-vcE1bX_4XveYql6mi5PyLKzEAsGMl" target="_blank" rel="nofollow">PDF</a>'
+    text: 'Download <a href="https://drive.google.com/open?id=1gs2GQ20I86ZxPK1clpNfkaVdez8eb-5C" target="_blank" rel="nofollow">PDF</a>'
