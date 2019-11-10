@@ -69,6 +69,16 @@ experiences:
     experiences:
 
         - role: Android Developer
+          time: November 2019 - Januar 2020
+          company: Accenture Interactive
+          details: Development of an Android Library for file sharing with a high focus on Security.
+
+        - role: Android Developer
+          time: July 2019 - September 2019
+          company: Deutsche Post
+          details: Building a bluetooth client App. Using Kotlin coroutines and MVI architecture.
+
+        - role: Android Developer
           time: November 2018 - April 2019
           company: Thalia
           details: Building the products list feature for the Douglas shopping App for phones and tablets following clean architecture.
