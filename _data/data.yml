@@ -69,6 +69,11 @@ experiences:
     experiences:
 
         - role: Android Developer
+          time: Januar 2020 - June 2020
+          company: OneFootball
+          details: Complete redesign of the App, including refactoring a lot of the very old code base.
+
+        - role: Android Developer
           time: November 2019 - Januar 2020
           company: Accenture Interactive
           details: Development of an Android Library for file sharing with a high focus on Security.
@@ -121,8 +126,12 @@ experiences:
 
 projects:
     title: Projects
-    
+
     projects:
+      - project:
+        title: OneFootball
+        link: "https://play.google.com/store/apps/details?id=de.motain.iliga"
+        tagline: "One of the biggest Football news apps"
       - project:
         title: Douglas
         link: "https://play.google.com/store/apps/details?id=com.douglas.main"
@@ -167,9 +176,12 @@ skills:
           name: Kotlin
           level: 98%
         - skill:
+          name: Flutter
+          level: 50%
+        - skill:
           name: Unity
           level: 50%
 
 
 footer: 
-    text: 'Download <a href="https://drive.google.com/open?id=1gs2GQ20I86ZxPK1clpNfkaVdez8eb-5C" target="_blank" rel="nofollow">PDF</a>'
+    text: 'Download <a href="https://drive.google.com/file/d/1DP1E0jLuLDvvWsSjjykwZfCnqGpsEaTb/view?usp=sharing" target="_blank" rel="nofollow">PDF</a>'
