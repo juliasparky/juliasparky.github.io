@@ -68,7 +68,7 @@ experiences:
     
     experiences:
 
-      - role: Android Developer
+        - role: Android Developer
           time: September 2020 - Februar 2021
           company: Zeit Online
           details: Building the new Zeit Online news app from scratch.
