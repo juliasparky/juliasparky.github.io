@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: Yuliia Holubosh
-    #url: 'http://webjeda.com'
+    url: 'http://juliasparky.github.io'
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
@@ -69,22 +69,22 @@ experiences:
 
     experiences:
 
-        - role: Talent Advisor
-          time: Since May 2020
-          company: Noroutine GmbH
-          details: Attracting suitable candidates through databases, online employment forums, social media.
-                   Keeping up-to-date on current data legislation and regulations and enforcing them within the company.
-                   Assessing applicants' knowledge, skills, and experience to best suit open positions.
-                   Conducting interviews using various reliable recruiting and selection tools/methods to filter candidates within schedule.
-                   Providing analytical and well documented recruiting reports to the rest of the team.
+      - role: Talent Advisor
+        time: Since May 2020
+        company: Noroutine GmbH
+        details: Attracting suitable candidates through databases, online employment forums, social media.
+                  Keeping up-to-date on current data legislation and regulations and enforcing them within the company.
+                  Assessing applicants' knowledge, skills, and experience to best suit open positions.
+                  Conducting interviews using various reliable recruiting and selection tools/methods to filter candidates within schedule.
+                  Providing analytical and well documented recruiting reports to the rest of the team.
 
-       - role: Intern
-         time: January 2019 - March 2019
-         company: Rivne City Council International Department
-         details: Conducting official correspondence
-                  Preparation of information and reference materials
-                  Search for new potential partner cities for Rivne (Ukraine) or ways to intensify the bilateral format of their cooperation in various fields
-                  Translation of certain web pages of the Rivne City Council website into English, and some of them into two languages:English and Polish
+      - role: Intern
+        time: January 2019 - March 2019
+        company: Rivne City Council International Department
+        details: Conducting official correspondence
+                Preparation of information and reference materials
+                Search for new potential partner cities for Rivne (Ukraine) or ways to intensify the bilateral format of their cooperation in various fields
+                Translation of certain web pages of the Rivne City Council website into English, and some of them into two languages:English and Polish
 
       -  role: Linguistic Intership
          time: January 2018 - March 2018
@@ -93,21 +93,21 @@ experiences:
                   written and oral translation of official business and socio-political texts from English into Ukrainian and from Ukrainian into English.
 
 
-        - role: English Children Instructor
-          time: Juni 2017 - August 2018
-          company: American English School/AmEs Camp
-          details: Held lessons in English and Spanish in the form of games
-                   Worked with different age groups
-                   Organized a welcome meeting to parents and children
+      - role: English Children Instructor
+        time: Juni 2017 - August 2018
+        company: American English School/AmEs Camp
+        details: Held lessons in English and Spanish in the form of games
+                  Worked with different age groups
+                  Organized a welcome meeting to parents and children
 
-        - role: Lifeguard/Technical Pool Operator
-          time: May 2016 - September 2016
-          company: High Sierra Pools
-          details: Warning patrons of hazards
-                   Ensuring cleanliness, safety and upkeep of swimming pool
-                   Assisting in the control of water quality
-                   Effectively responding to an emergency
-                   Operating the pump room
+      - role: Lifeguard/Technical Pool Operator
+        time: May 2016 - September 2016
+        company: High Sierra Pools
+        details: Warning patrons of hazards
+                  Ensuring cleanliness, safety and upkeep of swimming pool
+                  Assisting in the control of water quality
+                  Effectively responding to an emergency
+                  Operating the pump room
 
 skills:
     title: Skills &amp; Proficiency
