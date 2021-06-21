@@ -3,198 +3,184 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+# Site Settings
+    title: Oleksii Khilkevych,MSc
+    url: 'http://github.com/noroutine'
+    about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Oleksii Khilkevych
+    tagline: Big Data DevOps Engineer
+    avatar: image.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    email: olelsiy@noroutine.me
+    phone: +49 163 1669687‬
+    website: https://noroutine.me #do not add http://
+    linkedin: https://de.linkedin.com/in/oleksiikhilkevych
+    
     languages:
-      - idiom: English
+      - idiom: Ukranian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Advanced
 
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - idiom: German 
+        level: Upper-Intermediate
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      My focus is on providing first-class consultancy, using my background in tech and business.
+      Apart from solid technical background in classic developer and devops roles, I have experience in several big migrations of critical infrastructure, have trained small to large teams.
+      I am able to speed up cultural transformation, can tackle, analyse and break-down high-level roadmap items, as well as advise on best practices in tech, compliance and security. 
+      Where required, I can train teams to help them cross technological barriers faster and at the same speed for all team members.
+    
+      I’m very well aware of a huge gap between desire for faster yet controllable change at management level and actually having that agility within teams. 
+      The gap that is caused by tech or communication barriers, legacy toolset, isolated knowledge islands, regulations, process inertia and so on. 
+      I can shorten that gap for your particular case, advise on how to tackle it or kickoff the transformation myself.
+      The most important in crossing that gap for me is to maintain business continuity and steer the transformation in controllable way.
+      Open for on-site and remote contracts 
 
-      Second paragraph if required.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+      university: Igor Sikorsky Kyiv Polytechnic Institute
+      time: Sep 2003 - May 2009
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: DevOps Engineer, Security Officer, Data Protection Officer, CEO
+      time: Oct 2018 - Present
+      company: Noroutine GmbH
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Designed from scratch and implemented as a code complete corporate network, storage and computing infrastructure in hybrid cloud model, where our on-premises resources are transparently networked with Azure and Vultr resources.
+          - Tech Consulting: As a tech consultancy we specialize in DevOps, Dev and Data Analytics, tough projects like infrastructure architecture in hybrid-,on-premise- and multi-cloud setup, migrations and many many more.
+          - Recruiting: On a recruitment track we source and provide our clients qualified talent. I’m providing training and my expertise in DevOps, Security and GDPR. Also I am performing technical screening for all sourced candidates.
+          - Compliance: As Security Officer and Data Protection Officer, I am maintaining internal security policies and ensuring GDPR compliance.
 
-          - Bullet point
-          - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: DevOps Consultant
+      time: Oct 2019- Sep 2020
+      company: Allianz Technology SE- Global Data Platform
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Architected and implemented from scratch multi-tenant highly-available containerized monitoring solution for 50+ environments with alerting and long-term storage
+          - Wrote metrics exporters in Go for LDAP and NFS monitoring, as openly available solutions didn’t meet the business requirements
+          - Some of tools, among many involved: Prometheus, m3db, Alerta, ElasticSearch, Grafana
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
+    - role: DevOps Consultant
       time: 2012 - 2014
-      company: Amazon, London
+      company: ACI Worldwide, Inc. - Banking & Payments Solution
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - I went on with ACI as a contractor on AHS project to introduce active-hotstandby cross-datacenter traffic switchover for production environment with over 300 peak tps
+          - The project goal was to reduce customer-facing incident impact during major platform outages. In case of major incident in live processing datacenter, the automated solution is supposed to detect failure condition and switchover complete transaction processing to DR site.
+          - My particular responsibility was two-fold: 
+          1) to implement tooling for controlled manual and automated switchovers, and 
+          2) monitoring solution coupled with rule engine, that would trigger switchover on particular predefined condition.
+          - The tooling was implemented in Go and consists of CLI interface for various platform components to orchestrate switchover across platform components, and witness daemon for proactive monitoring and incident detection.
+          - Part of witness daemon is a rule engine, that detects failure condition and performs automated failover if condition is met
 
-          - Bullet point
-          - Bullet point
-
+    - role: Senior Software Engineer (DevOps)
+      time: Nov 2015 - Oct 2019
+      company: ACI Worldwide, Inc. - Banking & Payments Solution
+      details: |
+         I joined PAY.ON as first DevOps Engineer in a strict security oriented and PCI-regulated startup with large legacy code base and left a team with great DevOps mindset and modern stack.A responsive website template designed to help startups promote, market and sell their products.
+         My core activities at PAY.ON/ACI over 5 years were around improving tooling and infrastructure, infrastructure migrations, driving forward DevOps roadmap, mentoring new hires, strengthening interactions among teams and nurturing DevOps culture.
+         Completed projects with direct involvement:
+         - Migration of source code with 10k+ unit tests from Subversion to Git
+         - Migration of build systems in 3 large source bases from Ant to Gradle
+         - Setup and maintenance of Gerrit instances
+         - Setup and maintenance of Artifactory instances
+         - Setup and maintenance of dev Jenkins clusters
+         - Migration of Jenkins jobs to Jenkins Job DSL
+         - Development and maintenance of Vagrant-based Development VM for 50+ developers
+         - In-house release tooling improvements and maintenance
+         - Production environment migration to new datacenter
+         - Datacenter switchovers and creating of tooling for it
+         - Jira migration to ACI Active Directory
+         - UltraDNS/Pingdom management CLI in Go (reliable and fast live traffic redirection)
+         - Migrated internal inventory tool to Perl+GTK3
+         Trainings, PoCs, code retreats, hackatons:
+         - Training around 50 developers on Git
+         - Conducted weekly code retreats around DevOps topics
+         - Conducted numerous PoCs on K8s, containerization, virtualization, automation, took part in hackatons
+         - Kubernetes PoC for dev infrastructure, comparing docker and crio
+         - OpenStack internal hackaton on creating vms from templates
+         - VMWare automation PoC (creating VMs from PCI-compliant templates with help of custom Ansible module)
+         - PCI-compliant VM template built with packer
+         Containerization internal hackaton to run one of our core projects on Kubernetes
+         - Jenkins Xray plugin PoC (tracks code Test coverage for every Git commit)
+         - Ansible dynamic inventory PoC (provides Ansible with entries from or internal server inventory database)
+         - Release orchestration from Jira (trigger and coordinate Jenkins jobs with Jira transitions)
+         - Docker Swarm PoC (prototyped our complete dev infra in containers)
+         - Unified server/dev vm template that can be continuously delivered to provide developers and operations with
+         - single-image compliant base VM, that can be reused in Vagrant, VMWare, OpenStack and AWS
+         - Corosync binding for Go (to interface with corosync/pacemaker from Go code)
+ 
+    - role: Senior Software Engineer (DevOps) - Whitelabel Payment Sevices Provider
+      time: Sep 2014 - Now 2015
+      company: PAY.ON AG (now part of ACI)
+      
+    - role: Java Web Developer
+      time: Jan 2012 -  Dec 2013
+      company: Gastrofix GmbH (now part of Lightspeed) - Innovative POS& Cash Register 
+      details: |
+          - Fullstack Developer: I was covering web frontend, backend. Our system evolves around iOS application, that is managed by Web UI. Backoffice stack consists of Angular, Spring, JasperReports and PostgreSQL+Mongo
+          - DevOps Engineer: Was responsible for database and servers healthcare, webops, devops and backups. Using Chef, Jenkins, Munin and Nagios and a lot of other stuff for dev/web operations. Maintained iOS CI/CD pipeline
+          - iOS WebUI Developer: Also worked on some mobile parts, for example implemented convenient multi-layered
+          SVG-based restaurant room designer
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+    title: 8 more projects as a Developer, DevOps, System Administrator,Team Lead
+     time:Sep 2003 - Apr 2013
+    
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+        About Taxes in Ukraine (in Ukrainian)
+        - "Analysis of tax changes in Ukrainian IT
+        https://dou.ua/lenta/columns/stop-giving-milk-for-free/""
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        - What Constitutes a Senior (in Ukrainian)
+        Breaking down what values shall a Senior professional have
+        https://dou.ua/lenta/columns/senior-middle-junior-comparison/
+    
+        - About Taxes in Ukraine (in Ukrainian)
+        8 other technical articles (in Russian)
+        Mostly Software Development topics
+        https://habr.com/en/users/1ex/posts/
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      Languages
+      Golang,Java, Groovy, Python, JavaScript, SQL, Bash
 
-      - name: Javascript & jQuery
-        level: 98%
+      Web Frontend
+      JavaScript, TypeScrript, React, Angular, CSS, SASS, jQuery,vanilla.js
 
-      - name: Angular
-        level: 98%
+      Backend
+      Go, node.js, Spring, Hibernate
 
-      - name: HTML5 & CSS
-        level: 95%
+      Databases
+      PostgreSQL, Mongo, Redis, ElasticSearch, Consul
 
-      - name: Ruby on Rails
-        level: 85%
+      Platforms
+      AWS, GCP, Azure, OpenStack, VMWare, KVM/openvirt, vagrant, bare-metal
 
-      - name: Sketch & Photoshop
-        level: 60%
+      Automation/CI&CD
+      Ansible, Puppet, Terraform, Jenkins, GitLab CI, Travis
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+      Code Repo/Code Review
+      bare Git, GitHub, GitLab, Gerrit
+
+      Containers
+      Nomad, K8s, Docker, Docker Swarm, rkt, CRI-O, LXC
+
+      DevSecOps
+      HashiCorp Vault, Ansible Vault, istio, GnuPG
+      
+      Data Analytics
+      Spark, Luigi, Jupyter, ELK
+
+footer:
+    text: >
+    Download <a href=" url: https://cloud.noroutine.me/s/Amx6QeLrGLj8bXn" target="_blank" rel="nofollow">PDF</a>
