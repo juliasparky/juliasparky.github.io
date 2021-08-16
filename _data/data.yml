@@ -116,19 +116,19 @@ skills:
           level: 90%
         - skill:
           name: Analytical Skills
-          level: 85 %   
+          level: 70 %   
         - skill:
           name: Candidate Sourcing
           level: 80%
         - skill:
           name: ATS & CRM System
-          level: 80%
+          level: 75%
         - skill:
           name: Office 365
-          level: 80%
+          level: 75%
         - skill:
           name: Data Security and Privacy
-          level: 80%
+          level: 75%
         - skill:
           name: Project Management Tools
           level: 70%   
