@@ -10,14 +10,14 @@ sidebar:
 
     # Profile information
     name: Yuliia Holubosh
-    tagline: Talent Advisor
+    tagline: Working Student
     pic: image.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: yuliaholubosh@gmail.com
     phone: +49 176 57784137
     linkedin: yuliiaholubosh
-    github: juliasparky
+    
 
     languages:
         - language:
@@ -31,25 +31,22 @@ sidebar:
           level: Upper-Intermediate
         - language:
           idiom: German
-          level: Upper-Intermediate
+          level: Intermediate
 
     interests:
         - interest:
-          item: Dancing
+          item: Swimming
+          link:
+        - interest:
+          item: Reading
           link:
         - interest:
           item: Cooking
           link:
-        - interest:
-          item: Swimming
-          link:
-
-
 
 career-profile:
     title: About me
-    text: I am a committed, friendly and hardworking Talent Advisor with a passion for providing excellent service at all times. I am  always eager to be challenged in order to grow and further improve my hard as well as soft skills. My highest priority is to be a valuable asset to the organisation that I work for.
-
+    text: 'I am a committed, friendly and hardworking person with a passion for providing excellent service at all times. I am always eager to be challenged in order to grow and further improve my hard as well as soft skills. My highest priority is to have a big focus on doing things properly and to be a valuable asset to the organisation that I work for.'
 studies:
     - education:
       degree: Masters Degree  in International relations and business administration
@@ -59,8 +56,7 @@ studies:
     - education:
       degree: Masters Degree with honors in International relations, social communications and regional studies.
       university: National University of Ostroh Academy
-      time: 2014 - 2020
-
+      time: 2018 - 2020
 
 
 experiences:
@@ -76,8 +72,8 @@ experiences:
           • Keeping up-to-date on current data legislation and regulations and enforcing them within the company.<br />
           • Assessing applicants' knowledge, skills, and experience to best suit open positions.<br />
           • Conducting interviews using various reliable recruiting and selection tools/methods to filter candidates within schedule.<br />
-          Providing analytical and well documented recruiting reports to the rest of the team.<br />
-          
+          • Providing analytical and well documented recruiting reports to the rest of the team.<br />
+          • Coordinating with hiring managers to identify staffing needs in different areas and departments.
 
       - role: Intern
         time: January 2019 - March 2019
@@ -91,15 +87,15 @@ experiences:
       -  role: Linguistic Intership
          time: January 2018 - March 2018
          company: NaUOA Insitute for the Ukranian Diaspora Studies
-         details: 
-             "Performing various types of translation:
-              written and oral translation of official business and socio-political texts from English into Ukrainian and from Ukrainian into English."
-                
+         details: |
+         Performing various types of translation:written and oral translation of official business and socio-political texts from English into Ukrainian and from Ukrainian into English.
+
+
       - role: English Children Instructor
         time: Juni 2017 - August 2018
         company: American English School/AmEs Camp
         details: 
-           • Held lessons in English and Spanish in the form of games<br />
+           • Held lessons in English and German in the form of games<br />
            • Worked with different age groups<br />
            • Organized a welcome meeting to parents and children<br />
 
@@ -118,22 +114,31 @@ skills:
     skills:
         - skill:
           name: G-Suite
-          level: 98%
+          level: 90%
         - skill:
-          name:  ATS & CRM System
-          level: 85%
+          name: Analytical Skills
+          level: 85 %   
+        - skill:
+          name: Candidate Sourcing
+          level: 80%
+        - skill:
+          name: ATS & CRM System
+          level: 80%
+        - skill:
+          name: Office 365
+          level: 80%
+        - skill:
+          name: Data Security and Privacy
+          level: 80%
+        - skill:
+          name: Project Management Tools
+          level: 70%   
         - skill:
           name: Social Media Management
-          level: 70%
-        - skill:
-          name:  Data Visualisation
-          level: 40%
-        - skill:
-          name: Customer Data Security and Privacy
           level: 60%
         - skill:
           name: SEO and Marketing
           level: 50%
-
+               
 footer:
     text: 'Download <a href="" target="_blank" rel="nofollow">PDF</a>'
