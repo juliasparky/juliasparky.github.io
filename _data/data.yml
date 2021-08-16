@@ -110,13 +110,13 @@ experiences:
 
 skills:
     title: Skills &amp; Proficiency
-    skills:
-        - skill:
-          name: Analytical Skills
-          level: 85 %  
+    skills: 
         - skill:
           name: G-Suite
           level: 80%
+        - skill:
+          name: Analytical Skills
+          level: 85%
         - skill:
           name: Candidate Sourcing
           level: 80%
