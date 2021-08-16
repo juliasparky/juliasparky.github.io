@@ -111,7 +111,7 @@ experiences:
 skills:
     title: Skills &amp; Proficiency
     skills:
-     - skill:
+        - skill:
           name: Analytical Skills
           level: 85 %  
         - skill:
